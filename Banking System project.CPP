@@ -5,7 +5,7 @@
 //****************************************************************
 //INCLUDES HEADER FILES
 //****************************************************************
- 
+ #include<bits/stdc++.h>
 #include<iostream.h>
 #include<fstream.h>
 #include<process.h>
